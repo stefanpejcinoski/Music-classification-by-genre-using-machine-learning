@@ -15,7 +15,7 @@ There are a few things you need to do first, in order to run the code yourself
 #### Python 
 
 This project was written for Python 3.7, i cannot guarantee that it will work with other versions.
-If you don't already have python , the easiest way to install for Windows and Mac users
+If you don't already have Python , the easiest way to install for Windows and Mac users
 is to download Anaconda for the proper Python version. Linux users on the other hand can just run:
 
 ```
@@ -110,7 +110,7 @@ you to have ffmpeg installed on your system and present in
 your PATH. The project itself comes with ffmpeg and the code
 calls it from a local directory in the project folder.
 Therefore the app supports all the filetypes that ffmpeg supports
-which means it supports all popular audio file formats(mp3, flac, aac..).
+which means it supports all popular audio file formats(mp3, flac, aac..etc).
 
 #### Training the model further
 
@@ -125,4 +125,4 @@ your own dataset but format it the same way that this dataset is formatted.
 This project was only made for fun and learning, it is not meant to be used to provide
 any sort of music categorization services, only as a means to get a laugh or two from 
 it's terrible predictions. I will not continue to develop this project but you can feel
-free to make any sort of changes you want (retrain the model, add features to the extractor...).
+free to make any sort of changes you want (retrain the model, add features to the extractor..etc).
