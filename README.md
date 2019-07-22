@@ -2,7 +2,7 @@
 
 I wrote this project for a college subject assignment. It uses two machine learning models (you can switch between them in the code)
 kNN and a dense neural network model. The GUI part i wrote for fun and for learning Tkinter. The feature extraction and the dense model 
-are both based on a [Medium article](https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d) on the towards data science 
+are both based on a [Medium article](https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d) on the Towards Data Science 
 blog. The model is trained on the [GTZAN dataset](http://marsyas.info/downloads/datasets.html), which consists of 1000 audio tracks, 
 each one 10 seconds long. There are 10 genres represented in the dataset with 100 tracks per genre. 
 
