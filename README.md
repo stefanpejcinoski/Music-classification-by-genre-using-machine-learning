@@ -41,7 +41,7 @@ If not currently installed on your system, run:
 pip install librosa
 ``` 
 
-in a Python shell.
+in an Anaconda/Linux shell.
 
 ##### Scikit Learn
 
@@ -52,7 +52,7 @@ If not currently installed on your system, run:
 pip install scikit-learn
 ```
 
-in a Python shell.
+in an Anaconda/Linux shell.
 
 ##### Keras
 
@@ -64,7 +64,7 @@ If not currently installed on your system, run:
 pip install tensorflow keras
 ```
 
-in a Python shell.
+in an Anaconda/Linux shell.
 
 ##### Pandas
 
@@ -76,7 +76,7 @@ If not currently installed on your system, run:
 pip install pandas
 ```
 
-in a Python shell.
+in an Anaconda/Linux shell.
 
 ##### Tkinter
 
@@ -88,7 +88,7 @@ but if not, run:
 pip install python-tk
 ```
 
-in a Python shell.
+in an Anaconda/Linux shell.
 
 
 ### Running the app
